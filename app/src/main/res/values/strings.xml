@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FlyTo</string>
+    <string name="bombay_title">Bombay</string>
+    <string name="nagpur_title">Nagpur</string>
+    <string name="mech_title">Mech</string>
+    <string name="cse_title">CSE</string>
+</resources>
